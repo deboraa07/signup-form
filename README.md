@@ -1,2 +1,2 @@
 # signup-form
-Um formulário de cadastro utilizando React Js
+Um formulário de cadastro de usuários utilizando React com Javascript.
